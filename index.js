@@ -13,7 +13,7 @@ bot.command('start', async (ctx) => {
         .text('TS')
         .row()
         .text('Angular')
-        .text('Software Architecture')
+        .text('Architecture')
         .resized();
 
     await ctx.reply(
